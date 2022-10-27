@@ -7,3 +7,11 @@ def madhesh():
 
 def kaviya():
     print("kaviya")
+
+
+
+
+
+
+
+print("hai")
