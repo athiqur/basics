@@ -15,3 +15,5 @@ def kaviya():
 
 
 print("hai")
+
+print("hi")
